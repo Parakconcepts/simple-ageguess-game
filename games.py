@@ -1,7 +1,7 @@
 #Your entry us always be below 25
-#If above
+#If above 25
 #prints you're wrong
-#If below
+#If below 25
 #You qualify
 
 #Receive entry
